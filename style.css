@@ -1,0 +1,23 @@
+body {
+    text-align: center;
+    flex-direction: row;
+
+}
+
+img.adobo {
+    border-radius: 1rem;
+    box-shadow: inset;
+    width: 30rem;
+    height: auto;
+}
+
+p {
+    margin-left: 15rem;
+    margin-right: 15rem;
+}
+
+div.list {
+    display: inline-block;
+    text-align: left;
+    margin-top: -1rem;
+}
